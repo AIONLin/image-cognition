@@ -23,7 +23,6 @@ namespace image_cognition
         public MainWindow()
         {
             InitializeComponent();
-
         }
     }
 }
